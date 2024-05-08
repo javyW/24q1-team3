@@ -22,7 +22,7 @@ Welcome to Food Differently, where we're revolutionizing the way you experience 
 
 ## A description of the app
 
-
+Our app offers a platform for ordering a wide range of delicious meals for pickup. Whether you're in the mood for something savory like a burger, a classic like pizza, or something lighter like a salad, our app provides a solution. With a user-friendly interface, you can effortlessly explore various menu options, tailor your order to your preferences, and have it prepared for pickup at our location with just a few taps.
 
 
 ## Demo link
@@ -65,7 +65,37 @@ npx nodemon src/server.js
 ## Known issues
 
 * April 22nd 2024: Unsure how integrate connection between frontend and backend components within the software architecture.
-  
+
 ## Roadmap features
 
+### Frontend-Backend Integration Strategy
+
+#### Objective
+* Ensure seamless functionality between the frontend and backend of the application.
+
+* Analyze different integration methodologies to connect the frontend.
+
+* Discuss and finalize the most suitable approach considering the technologies used (e.g., Spring Boot for backend, Bootstrap for frontend).
+
+* Plan steps to implement the chosen strategy, emphasizing collaborative efforts to achieve effective integration.
+
+* Expected Outcome: Smooth communication and data exchange between frontend and backend, enhancing overall application performance.
+
+### API Implementation Plan
+
+#### Objective
+* Integrate essential APIs for enhanced functionality and user experience.
+
+* Identify required APIs based on project requirements, as discussed in previous meetings (e.g., Map API for address validation, Payment API for financial transactions).
+
+* Evaluate API options and finalize the selection criteria (e.g., reliability, ease of integration).
+
+* Allocate tasks for API implementation and testing among team members, ensuring everyone contributes effectively.
+
+* Expected Outcome: Successful integration of essential APIs, enhancing features like address validation, payment processing, and order tracking.
+
 ## Credits 
+   - [Chukuma GH Link](https://github.com/cibezim)
+   - [Sherlin GH Link](https://github.com/SherllinT)
+   - [Javyen GH Link](https://github.com/javyW)
+   - [Kyvon GH Link](https://github.com/KRose77) 
