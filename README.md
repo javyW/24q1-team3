@@ -9,12 +9,12 @@
     
 ## Screenshot
 
-![alt text](../FDScreenShots/AboutUs.png)
-![alt text](../FDScreenShots/ContactUs.png)
-![alt text](../FDScreenShots/FrontBottom.png)
-![alt text](../FDScreenShots/FrontMiddle.png)
-![alt text](../FDScreenShots/FrontTop.png)
-![alt text](../FDScreenShots/Nearby.png)
+![alt text](../24q1-team3/FDScreenShots/AboutUs.png)
+![alt text](../24q1-team3/FDScreenShots/ContactUs.png)
+![alt text](../24q1-team3/FDScreenShots/FrontBottom.png)
+![alt text](../24q1-team3/FDScreenShots/FrontMiddle.png)
+![alt text](../24q1-team3/FDScreenShots/FrontTop.png)
+![alt text](../24q1-team3/FDScreenShots/Nearby.png)
 
 ## Introduction
 
